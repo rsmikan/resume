@@ -1,5 +1,4 @@
-
-# Resume CV# 
+# Resume CV 
 
 ## Designer 
 
@@ -12,13 +11,13 @@
 
 ##### REELS
 
-–> [Sizzle Reel Designer Overview](https://)
-–> [Sizzle Reel Video & Animation](https://)
-–> [Sizzle Reel UI UX Demos](https://)
-–> [Demo Reel UI Meta4tune Web App ](https://)
-–> [Demo Reel UI Circle of 5ths P5js Sketch](https://)
+* –> [Sizzle Reel Designer Overview](https://)
+* –> [Sizzle Reel Video & Animation](https://)
+* –> [Sizzle Reel UI UX Demos](https://)
+* –> [Demo Reel UI Meta4tune Web App ](https://)
+* –> [Demo Reel UI Circle of 5ths P5js Sketch](https://)
 
-___
+* ___
 
 
 ##### CONTENTS

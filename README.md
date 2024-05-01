@@ -9,25 +9,10 @@
 –> Video editing, animation, storyboards, wireframes, responsive web development, user interface and graphic design experience. 
 –> My record reflects dedication as an organized contributor and executive team direct report who advances initiatives that often exceed revenue projections. Agility to perform under pressure with hands-on skills, dedicated adaptation to pivot for new applications or frameworks. 
 
-##### REELS
-
-* –> [Sizzle Reel Designer Overview](https://)
-* –> [Sizzle Reel Video & Animation](https://)
-* –> [Sizzle Reel UI UX Demos](https://)
-* –> [Demo Reel UI Meta4tune Web App ](https://)
-* –> [Demo Reel UI Circle of 5ths P5js Sketch](https://)
-
-* ___
 
 
-##### CONTENTS
+* –> [Sizzle Reel Designer Overview](https://vimeo.com/941620889/c14fd5815e?share=copy) 
 
-* [PROFESSIONAL EXPERIENCE](#professional-experience)
-* [EDUCATION](#education)
-* [QUALIFICATIONS](#qualifications)
-* [COMMUNITY OUTREACH](#community-outreach)
-* [CONTACT](#contact)
-* [PORTFOLIO LINKS](#portfolio-links)
 
 ___
 ___
